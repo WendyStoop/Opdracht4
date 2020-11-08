@@ -1,0 +1,11 @@
+p {
+    width: 200px;
+    height: 200px;
+    border: solid, black, 20px;
+    background-color: deeppink;
+    justify-content: center;
+    text-align: center;
+    padding-top:100px;
+}
+
+
